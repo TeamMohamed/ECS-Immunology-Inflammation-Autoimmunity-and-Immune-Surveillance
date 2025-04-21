@@ -32,19 +32,17 @@ Built from proprietary datasets and AI-augmented therapeutic mapping, this work 
 
 ---
 
-## 📜 Citation
+📜 Citation
 
-> Mohamed, A. (2025). *ECS & Immunology: Inflammation, Autoimmunity, and Immune Surveillance.* Version 1.0.0. Zenodo. DOI: [TBD]
+> Mohamed, A. (2025). ECS & Immunology: Inflammation, Autoimmunity, and Immune Surveillance. Version 1.0.0. Zenodo. DOI: 10.5281/zenodo.15229380
 
----
 
-## 🌐 License
+🌐 License
 
 This project is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See `LICENSE.md` for full terms.
 
----
 
-## 💡 Contact
+💡 Contact
 
 For licensing, academic collaboration, or clinical integration inquiries:  
-📧 **ecssignalling@gmail.com**
+📧 TeamMohamed@proton.me 
